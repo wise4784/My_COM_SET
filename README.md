@@ -1,6 +1,6 @@
-# My_COM_SET
-My ubuntu setting and .etc
-Ver : ubuntu 16.04
-VIM SETTING
-Geforce Graphic Driver SETTING
+# My_COM_SET 
+My ubuntu setting and .etc</br>
+Ver : ubuntu 16.04</br>
+VIM SETTING</br>
+Geforce Graphic Driver SETTING</br>
 
